@@ -1,4 +1,8 @@
 body {
 	background-image: url("unit_3/images/london1.jpg");
-
+	font-family: Helvetica, sans serif;
+	font-weight: 500;
+}
+h1 {
+	font-style: uppercase;
 }
