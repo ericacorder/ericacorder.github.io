@@ -3,6 +3,7 @@ body {
 	font-family: Helvetica, sans serif;
 	font-weight: 600;
 	font-stretch: extra-condensed
+	vertical-align: middle;
 }
 h1 {
 	text-transform: uppercase;
