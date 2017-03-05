@@ -7,9 +7,20 @@ body {
 	color: #888981;
 	
 }
+
+/*unvisited link */
+a:link {
+	color: #3FC0E8;
+}
+
+/*visited link */
+a:visited {
+	color: navy;
+}
 h1, h3 {
 	text-transform: uppercase;
 }
+
 h1 {
 	color: #3FC0E8;
 	font-weight: 600; 
