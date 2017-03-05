@@ -13,8 +13,8 @@ h1, h3 {
 	text-transform: uppercase;
 }
 h1 {
-	color: #B2AF00;
+	color: #000000;
 }
-h1, h3, p {
-	background-color: rgba(255,255,255,.5);
+h1, h3, p, ul {
+	background-color: rgba(255,255,255,.7);
 }
