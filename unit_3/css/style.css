@@ -1,21 +1,11 @@
 body {
 
 	font-family: Helvetica, sans-serif;
-	text-align: center;
 	font-weight: 200;
 	background: #FFFFFF;
 	color: #888981;
+	text-align: center;
 	
-}
-
-/*unvisited link */
-a: link {
-	color: #3FC0E8;
-}
-
-/*visited link */
-a: visited {
-	color: navy;
 }
 
 h1, h3 {
@@ -29,4 +19,14 @@ h1 {
 
 p {
 	text-decoration: none;
+}
+
+/*unvisited link */
+a:link {
+	color: #3FC0E8;
+}
+
+/*visited link */
+a:visited {
+	color: navy;
 }
