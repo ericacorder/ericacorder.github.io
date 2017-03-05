@@ -5,7 +5,6 @@ body {
 	background: #FFFFFF;
 	color: #888981;
 	text-align: center;
-    margin: 20;
 
 }
 
@@ -30,6 +29,7 @@ h1 {
 	color: #3FC0E8;
 }
 
-.storysamples span {
-
+.storysamples img {
+	float: left;
+	position: relative;
 }
