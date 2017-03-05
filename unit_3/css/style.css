@@ -3,6 +3,8 @@ body {
 	text-align: center;
 	font-weight: 600;
 	font-stretch: ultra-condensed;
+	background: url(https://s-media-cache-ak0.pinimg.com/564x/28/e9/74/28e974ff436263b11299059dbaa7cec2.jpg);
+	background-position: cover;
 }
 h1, h3 {
 	text-transform: uppercase;
