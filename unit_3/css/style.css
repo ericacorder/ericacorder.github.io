@@ -1,9 +1,8 @@
 body {
-	background-image: url("unit_3/images/london1.jpg");
-	font-family: Helvetica, sans serif;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
 	font-weight: 600;
 	font-stretch: extra-condensed
-	text-align: center;
 }
 h1 {
 	text-transform: uppercase;
