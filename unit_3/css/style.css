@@ -3,7 +3,8 @@ body {
 	text-align: center;
 	font-weight: 600;
 	font-stretch: ultra-condensed;
-	background: #FFFFED;
+	background: #8C8C82;
+	color: white;
 }
 h1, h3 {
 	text-transform: uppercase;
