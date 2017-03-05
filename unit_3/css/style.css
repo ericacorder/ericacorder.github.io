@@ -6,7 +6,7 @@ body {
 	font-stretch: ultra-condensed;
 	background: #1BDC8E;
 	background-size: cover;
-	color: rgb(16,97,112);
+	color: #888981;
 	
 }
 h1, h3 {
@@ -14,7 +14,4 @@ h1, h3 {
 }
 h1 {
 	color: #FFFFFF;
-}
-h1, h3, p, ul {
-	background-color: rgba(255,255,255,.7);
 }
