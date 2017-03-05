@@ -17,17 +17,6 @@ h1 {
 	font-weight: 600; 
 }
 
-#storysamples {
+.storysamples a {
 	text-decoration: none;
-	
-}
-
-/*unvisited link */
-a:link {
-	color: #3FC0E8;
-}
-
-/*visited link */
-a:visited {
-	color: navy;
 }
