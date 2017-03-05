@@ -9,14 +9,15 @@ body {
 }
 
 /*unvisited link */
-a:link {
+a: link {
 	color: #3FC0E8;
 }
 
 /*visited link */
-a:visited {
+a: visited {
 	color: navy;
 }
+
 h1, h3 {
 	text-transform: uppercase;
 }
@@ -24,4 +25,8 @@ h1, h3 {
 h1 {
 	color: #3FC0E8;
 	font-weight: 600; 
+}
+
+p {
+	text-decoration: none;
 }
