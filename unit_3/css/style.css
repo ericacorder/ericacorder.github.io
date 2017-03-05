@@ -7,3 +7,8 @@ body {
 h1, h3 {
 	text-transform: uppercase;
 }
+div {
+    -webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+}
