@@ -4,6 +4,7 @@ body {
 	font-weight: 600;
 	font-stretch: ultra-condensed;
 	background: url(https://s-media-cache-ak0.pinimg.com/564x/e3/7b/12/e37b12cae9dbd130f6fc19fffdeb5384.jpg);
+	background-size: cover;
 	color: white;
 }
 h1, h3 {
