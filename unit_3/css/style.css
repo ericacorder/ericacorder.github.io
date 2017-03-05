@@ -3,9 +3,11 @@ body {
 	text-align: center;
 	font-weight: 600;
 	font-stretch: ultra-condensed;
-	background: url(https://s-media-cache-ak0.pinimg.com/564x/36/40/51/364051de0dc0ccd0e6af8bb7dd3c2e5a.jpg);
-	background-size: cover;
+	background: #FFFFED;
 }
 h1, h3 {
 	text-transform: uppercase;
+}
+h1 {
+	color: #B2AF00;
 }
