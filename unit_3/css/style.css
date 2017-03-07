@@ -70,3 +70,8 @@ ul {
 	float: left;
 	position: relative;
 }
+
+
+#social-links {
+	padding: 5px;
+}
