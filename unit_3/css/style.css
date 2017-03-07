@@ -8,6 +8,11 @@ body {
 }
 
 
+img {
+	padding: 20px;
+}
+
+
 h1, h3 {
 	text-transform: uppercase;
 }
@@ -33,12 +38,14 @@ ul {
 #short-bio {
 	margin-left: 10%;
 	margin-right: 10%;
+	padding: 5px;
 }
 
 
-.storysamples a {
+.storysamples {
 	margin-left: 10%;
 	margin-right: 10%;
+	padding: 15px;
 }
 
 
