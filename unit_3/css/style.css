@@ -52,8 +52,8 @@ ul {
 	text-decoration: none;
 }
 
-.storysamples a, p, img, h3 {
-	padding: 15px;
+.storysamples a, img, {
+	padding: 25px;
 }
 
 
