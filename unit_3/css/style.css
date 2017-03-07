@@ -8,34 +8,55 @@ body {
 
 }
 
+
 h1, h3 {
+
 	text-transform: uppercase;
+
 }
+
 
 h1 {
+
 	color: #3FC0E8;
 	font-weight: 600; 
+
 }
+
 
 #slogan {
+
 	font-style: italic;
+
 }
+
 
 .storysamples a {
+
 	text-decoration: none;
+
 }
+
 
 .storysamples p {
+
 	color: #888981;
 	text-align: left;
+
 }
+
 
 .storysamples h3 {
+
 	color: #3FC0E8;
 	text-align: left;
+
 }
 
+
 .storysamples img {
+
 	float: left;
 	position: relative;
+
 }
