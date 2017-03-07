@@ -12,6 +12,9 @@ img {
 	padding: 20px;
 }
 
+#social-links {
+	padding: 5px;
+}
 
 h1, h3 {
 	text-transform: uppercase;
@@ -69,9 +72,4 @@ ul {
 .storysamples img {
 	float: left;
 	position: relative;
-}
-
-
-#social-links {
-	padding: 5px;
 }
