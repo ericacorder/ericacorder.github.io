@@ -1,62 +1,53 @@
 body {
-
 	font-family: Helvetica, sans-serif;
 	font-weight: 200;
 	background: #FFFFFF;
 	color: #888981;
 	text-align: center;
-
+	margin: 25px 50px 75px;
 }
 
 
 h1, h3 {
-
 	text-transform: uppercase;
-
 }
 
 
 h1 {
-
 	color: #3FC0E8;
 	font-weight: 600; 
+}
 
+
+ul {
+    text-align: center;
+    list-style-type: none;
 }
 
 
 #slogan {
-
 	font-style: italic;
-
 }
 
 
 .storysamples a {
-
 	text-decoration: none;
-
 }
 
 
 .storysamples p {
-
 	color: #888981;
 	text-align: left;
-
 }
 
 
 .storysamples h3 {
-
 	color: #3FC0E8;
 	text-align: left;
-
 }
 
 
 .storysamples img {
-
 	float: left;
 	position: relative;
-
 }
