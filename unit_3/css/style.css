@@ -30,6 +30,18 @@ ul {
 }
 
 
+#short-bio {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+
+.storysamples a {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+
 .storysamples a {
 	text-decoration: none;
 }
