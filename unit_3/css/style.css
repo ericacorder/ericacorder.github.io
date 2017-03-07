@@ -45,12 +45,15 @@ ul {
 .storysamples {
 	margin-left: 10%;
 	margin-right: 10%;
-	padding: 15px;
 }
 
 
 .storysamples a {
 	text-decoration: none;
+}
+
+.storysamples a, p, img, h3 {
+	padding: 15px;
 }
 
 
