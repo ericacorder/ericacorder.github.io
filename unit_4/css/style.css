@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Noto+Serif');
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-weight: 200;
+	background: #FFFFFF;
+	color: #888981;
+	text-align: center;
+	margin: 25px 50px 75px;
+}
+
+
+h1, h3 {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+p {
+	font-family: 'Noto Serif', serif;
+}
+
+
+h1 {
+	color: #3FC0E8;
+	font-weight: 600; 
+}
+
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+
+#slogan {
+	font-style: italic;
+}
+
+
+#short-bio {
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 5px;
+}
+
+
+.storysamples {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+.storysamples a {
+	text-decoration: none;
+}
+
+
+.storysamples p {
+	color: #888981;
+	text-align: left;
+}
+
+
+.storysamples h3 {
+	color: #3FC0E8;
+	text-align: left;
+}
+
+
+.storysamples img {
+	float: left;
+	position: relative;
+}
