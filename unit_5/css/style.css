@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat|Noto+Serif');
 
 body {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Noto Serif', serif;
 	font-weight: 200;
 	background: #FFFFFF;
 	color: #888981;
@@ -10,14 +10,51 @@ body {
 }
 
 
-h1, h3 {
-	text-transform: uppercase;
-	font-family: 'Montserrat', sans-serif;
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 
-p {
-	font-family: 'Noto Serif', serif;
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+h1, h3 {
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -35,13 +72,6 @@ ul {
 
 #slogan {
 	font-style: italic;
-}
-
-
-#short-bio {
-	margin-left: 10%;
-	margin-right: 10%;
-	padding: 5px;
 }
 
 
@@ -65,6 +95,11 @@ ul {
 .storysamples h3 {
 	color: #3FC0E8;
 	text-align: left;
+}
+
+
+#one,#two {
+	padding: 2.5em;
 }
 
 
