@@ -42,11 +42,13 @@ aside {
 
 
 article {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
 }
 
+
+img {
+	padding: 10px;
+}
 
 #two_column {
     background-color: #FFB7CF;
