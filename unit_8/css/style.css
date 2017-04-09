@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Raleway');
 
 body {
 	font-family: 'Noto Serif', serif;
@@ -20,7 +20,7 @@ body {
 
 
 header {
-    padding: 1.5em;
+    padding: 1em;
 }
 
 
@@ -74,7 +74,7 @@ div {
 
 h1, h3 {
 	text-transform: uppercase;
-	font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 
