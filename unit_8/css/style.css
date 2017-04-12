@@ -32,11 +32,13 @@ header {
 
 nav {
     padding: 1.5em;
+    float: none;
+    text-align: center;
 }
 
 
 aside {
-    padding: 1.5em;
+    padding: .6em;
 }
 
 
