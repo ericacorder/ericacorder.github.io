@@ -6,6 +6,7 @@ body {
 	background: #FFFFFF;
 	color: #888981;
 	text-align: center;
+    line-height: .5em;
 }
 
 
@@ -22,6 +23,7 @@ body {
 h1, h3 {
     text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
+
 }
 
 
