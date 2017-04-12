@@ -35,6 +35,7 @@ header {
 p {
     max-width: 60%;
     text-align: center;
+    float: none;
 }
 
 
@@ -68,13 +69,9 @@ img {
 #left {
     padding: 1.5em;
     float: left;
-    width: 30%;
+    width: 20%;
 }
 
-
-#left img {
-    padding: 5px;
-}
 
 #right {
     padding: 1.5em;
@@ -84,11 +81,6 @@ img {
 
 
 footer {
-    padding: 1.5em;
-}
-
-
-div {
     padding: 1.5em;
 }
 
