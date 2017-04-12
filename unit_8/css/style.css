@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif|Raleway');
 
 body {
-	font-family: 'Noto Serif', serif;
+    font-family: 'Raleway', sans-serif;
 	font-weight: 200;
 	background: #FFFFFF;
 	color: #888981;
@@ -16,6 +16,12 @@ body {
     content: " ";
     clear: both;
     height: 0;
+}
+
+
+h1, h3 {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -55,6 +61,10 @@ img {
 }
 
 
+#left img {
+    padding: 10px;
+}
+
 #right {
     padding: 1.5em;
     float: right;   
@@ -69,12 +79,6 @@ footer {
 
 div {
     padding: 1.5em;
-}
-
-
-h1, h3 {
-	text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
 }
 
 
