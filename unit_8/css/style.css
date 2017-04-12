@@ -50,6 +50,11 @@ article {
 }
 
 
+p {
+    max-width: 60%;
+}
+
+
 img {
 	padding: 1.5em;
 }
