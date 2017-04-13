@@ -29,6 +29,12 @@ h1, h3 {
 
 header {
     padding: 1em;
+    img {
+        float: left;
+    }
+    h1, h3, p {
+        float: right;
+    }
 }
 
 
@@ -53,13 +59,14 @@ aside {
 
 article {
     padding: 1.5em;
-    float: left;
+    float: right;
 }
 
 
 img {
 	padding: 1.5em;
 }
+
 
 #two_column {
     padding: 1.5em;
