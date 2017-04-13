@@ -43,12 +43,14 @@ header h1 {
 
 
 header h3 {
-        float: right;
+    float: none;
+    float: right;
 }
 
 
 header p {
-        float: right;
+    float: none;
+    float: right;
 }
 
 
@@ -68,7 +70,7 @@ nav {
 
 aside {
     padding: .6em;
-    float: none;
+    float: left;
 }
 
 
@@ -86,6 +88,7 @@ img {
 
 #two_column {
     padding: 1.5em;
+    float: none;
 }
 
 
