@@ -54,8 +54,13 @@ header {
 
 header img {
     float: left;
+    width: 25%;
 }
 
+
+#bio {
+    width: 75%;
+}
 
 header h1 {
     float: right;
