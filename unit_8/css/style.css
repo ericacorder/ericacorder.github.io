@@ -37,7 +37,17 @@ header img {
 }
 
 
-header h1, h3, p {
+header h1 {
+        float: right;
+}
+
+
+header h3 {
+        float: right;
+}
+
+
+header p {
         float: right;
 }
 
