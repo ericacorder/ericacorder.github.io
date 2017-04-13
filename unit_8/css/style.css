@@ -29,12 +29,16 @@ h1, h3 {
 
 header {
     padding: 1em;
-    img {
+}
+
+
+header img {
         float: left;
-    }
-    h1, h3, p {
+}
+
+
+header h1, h3, p {
         float: right;
-    }
 }
 
 
