@@ -68,11 +68,13 @@ nav {
 
 aside {
     padding: .6em;
+    float: none;
 }
 
 
 article {
     padding: 1.5em;
+    float: none;
     float: right;
 }
 
