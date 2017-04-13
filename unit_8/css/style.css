@@ -29,12 +29,13 @@ div .wrapper {
 h1 {
     font-size: 3em;
     padding: 3em;
+    color: #3FC0E8;
+    font-weight: 600; 
 }
 
 
 h3 {
     font-size: 2em;
-    padding: 2em;
 }
 
 
@@ -127,18 +128,6 @@ img {
 
 footer {
     padding: 1.5em;
-}
-
-
-h1 {
-	color: #3FC0E8;
-	font-weight: 600; 
-}
-
-
-ul {
-    text-align: center;
-    list-style-type: none;
 }
 
 
