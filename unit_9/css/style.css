@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Raleway');
+
+body {
+    font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+	background: #FFFFFF;
+	color: #888981;
+	text-align: center;
+    line-height: 1.5em;
+    font-size: 1em;
+    display: block;
+}
+
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+header {
+    width: 80%;
+}
+
+
+h1 {
+    font-size: 3em;
+    padding: 1em;
+    color: #3FC0E8;
+    font-weight: 600;
+}
+
+
+h3 {
+    font-size: 1.5em;
+}
+
+
+h1, h3 {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+header {
+    padding: 1em;
+}
+
+
+header img {
+    float: left;
+}
+
+
+header h1 {
+    float: right;
+    text-align: left;
+}
+
+
+header h3 {
+    float: none;
+    float: right;
+}
+
+
+header p {
+    float: none;
+    float: right;
+}
+
+
+p {
+    max-width: 60%;
+    text-align: center;
+    float: none;
+}
+
+
+nav {
+    padding: 1.5em;
+    float: none;
+    text-align: center;
+}
+
+
+aside {
+    padding: .6em;
+    float: left;
+}
+
+
+article {
+    padding: 1.5em;
+    float: none;
+    float: right;
+}
+
+
+img {
+	padding: 1.5em;
+}
+
+
+#two_column {
+    padding: 1.5em;
+    float: none;
+}
+
+
+#left {
+    padding: 0.5em;
+    float: left;
+    width: 20%;
+}
+
+
+#right {
+    padding: 1.5em;
+    float: right;   
+    width: 62%;
+}
+
+
+footer {
+    padding: 1.5em;
+}
+
+
+.storysamples {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+.storysamples a {
+	text-decoration: none;
+}
+
+
+.storysamples p {
+	color: #888981;
+	text-align: left;
+}
+
+
+.storysamples h3 {
+	color: #3FC0E8;
+	text-align: left;
+}
+
+
+#one,#two {
+	padding: 2.5em;
+}
+
+
+.storysamples img {
+	float: left;
+	position: relative;
+}
